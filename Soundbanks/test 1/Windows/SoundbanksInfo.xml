@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Windows" BasePlatform="Windows" SchemaVersion="11" SoundbankVersion="120">
+	<RootPaths>
+		<ProjectRoot>/Users/pauldb/Library/Application Support/Wwise2016/Bottles/wwise/dosdevices/c:/users/crossover/My Documents/WwiseProjects/Turn Up The Bloom - GGJ/</ProjectRoot>
+		<SourceFilesRoot>/Users/pauldb/Library/Application Support/Wwise2016/Bottles/wwise/dosdevices/c:/users/crossover/My Documents/WwiseProjects/Turn Up The Bloom - GGJ/.cache/Windows/</SourceFilesRoot>
+		<SoundBanksRoot>/Users/pauldb/Library/Application Support/Wwise2016/Bottles/wwise/dosdevices/c:/users/crossover/My Documents/WwiseProjects/Turn Up The Bloom - GGJ/GeneratedSoundBanks/Windows/</SoundBanksRoot>
+		<ExternalSourcesInputFile></ExternalSourcesInputFile>
+		<ExternalSourcesOutputRoot>/Users/pauldb/Library/Application Support/Wwise2016/Bottles/wwise/dosdevices/c:/users/crossover/My Documents/WwiseProjects/Turn Up The Bloom - GGJ/GeneratedSoundBanks/Windows/</ExternalSourcesOutputRoot>
+	</RootPaths>
+	<DialogueEvents/>
+	<StreamedFiles/>
+	<MediaFilesNotInAnyBank/>
+	<SoundBanks>
+		<SoundBank Id="1355168291" Language="SFX">
+			<ObjectPath>Init</ObjectPath>
+			<ShortName>Init</ShortName>
+			<Path>Init.bnk</Path>
+		</SoundBank>
+		<SoundBank Id="3161908922" Language="SFX">
+			<ObjectPath>\SoundBanks\Default Work Unit\Main</ObjectPath>
+			<ShortName>Main</ShortName>
+			<Path>Main.bnk</Path>
+			<IncludedEvents>
+				<Event Id="611937441" Name="Base_Ambience" ObjectPath="\Events\Default Work Unit\Base_Ambience"/>
+				<Event Id="3450050763" Name="Engine_Throb" ObjectPath="\Events\Default Work Unit\Engine_Throb"/>
+			</IncludedEvents>
+			<IncludedMemoryFiles>
+				<File Id="42076978" Language="SFX">
+					<ShortName>Throb 1.2.wav</ShortName>
+					<Path>SFX/Throb 1.2_9E69E797.wem</Path>
+				</File>
+				<File Id="144455026" Language="SFX">
+					<ShortName>Ambience 1.wav</ShortName>
+					<Path>SFX/Ambience 1_4B8CC0C5.wem</Path>
+				</File>
+				<File Id="247964197" Language="SFX">
+					<ShortName>Throb 2.2.wav</ShortName>
+					<Path>SFX/Throb 2.2_9E69E797.wem</Path>
+				</File>
+				<File Id="273607748" Language="SFX">
+					<ShortName>Throb 1.1.wav</ShortName>
+					<Path>SFX/Throb 1.1_9E69E797.wem</Path>
+				</File>
+				<File Id="280383728" Language="SFX">
+					<ShortName>Throb 3.2.wav</ShortName>
+					<Path>SFX/Throb 3.2_9E69E797.wem</Path>
+				</File>
+				<File Id="364397173" Language="SFX">
+					<ShortName>Base Engine 1.wav</ShortName>
+					<Path>SFX/Base Engine 1_4B8CC0C5.wem</Path>
+				</File>
+				<File Id="965015969" Language="SFX">
+					<ShortName>Ambience 2.wav</ShortName>
+					<Path>SFX/Ambience 2_4B8CC0C5.wem</Path>
+				</File>
+				<File Id="1000044451" Language="SFX">
+					<ShortName>Throb 3.1.wav</ShortName>
+					<Path>SFX/Throb 3.1_9E69E797.wem</Path>
+				</File>
+				<File Id="1027491234" Language="SFX">
+					<ShortName>Throb 2.1.wav</ShortName>
+					<Path>SFX/Throb 2.1_9E69E797.wem</Path>
+				</File>
+				<File Id="1066701499" Language="SFX">
+					<ShortName>Hum Ambience 1.wav</ShortName>
+					<Path>SFX/Hum Ambience 1_4B8CC0C5.wem</Path>
+				</File>
+				<File Id="1068431460" Language="SFX">
+					<ShortName>Metallic Throb 1.wav</ShortName>
+					<Path>SFX/Metallic Throb 1_D6C9A8D9.wem</Path>
+				</File>
+			</IncludedMemoryFiles>
+		</SoundBank>
+	</SoundBanks>
+</SoundBanksInfo>

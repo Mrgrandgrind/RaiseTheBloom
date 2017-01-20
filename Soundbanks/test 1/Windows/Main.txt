@@ -1,0 +1,29 @@
+Event	ID	Name			Wwise Object Path	Notes
+	611937441	Base_Ambience			\Default Work Unit\Base_Ambience	
+	3450050763	Engine_Throb			\Default Work Unit\Engine_Throb	
+
+Switch Group	ID	Name			Wwise Object Path	Notes
+	2782712965	Level			\Default Work Unit\Level	
+
+Switch	ID	Name	Switch Group			Notes
+	1290008369	Level_1	Level			
+	1290008370	Level_2	Level			
+	1290008371	Level_3	Level			
+	1290008372	Level_4	Level			
+
+Effect plug-ins	ID	Name	Type				Notes
+	126555151	Wwise Parametric EQ (Custom)	Wwise Parametric EQ			
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	42076978	Throb 1_2	C:\users\crossover\My Documents\WwiseProjects\Turn Up The Bloom - GGJ\.cache\Windows\SFX\Throb 1.2_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Engine\Engine Throb\Level 1\Throb 1_2		432192
+	144455026	Ambience 1	C:\users\crossover\My Documents\WwiseProjects\Turn Up The Bloom - GGJ\.cache\Windows\SFX\Ambience 1_4B8CC0C5.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ambience\Ambience 1		23904192
+	247964197	Throb 2_2	C:\users\crossover\My Documents\WwiseProjects\Turn Up The Bloom - GGJ\.cache\Windows\SFX\Throb 2.2_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Engine\Engine Throb\Level 2\Throb 2_2		432192
+	273607748	Throb 1_1	C:\users\crossover\My Documents\WwiseProjects\Turn Up The Bloom - GGJ\.cache\Windows\SFX\Throb 1.1_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Engine\Engine Throb\Level 1\Throb 1_1		432192
+	280383728	Throb 3_2	C:\users\crossover\My Documents\WwiseProjects\Turn Up The Bloom - GGJ\.cache\Windows\SFX\Throb 3.2_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Engine\Engine Throb\Level 4\Level 3\Throb 3_2		432192
+	364397173	Base Engine 1	C:\users\crossover\My Documents\WwiseProjects\Turn Up The Bloom - GGJ\.cache\Windows\SFX\Base Engine 1_4B8CC0C5.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ambience\Base Engine 1		8064192
+	965015969	Ambience 2	C:\users\crossover\My Documents\WwiseProjects\Turn Up The Bloom - GGJ\.cache\Windows\SFX\Ambience 2_4B8CC0C5.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ambience\Ambience 2		21024192
+	1000044451	Throb 3_1	C:\users\crossover\My Documents\WwiseProjects\Turn Up The Bloom - GGJ\.cache\Windows\SFX\Throb 3.1_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Engine\Engine Throb\Level 4\Level 3\Throb 3_1		432192
+	1027491234	Throb 2_1	C:\users\crossover\My Documents\WwiseProjects\Turn Up The Bloom - GGJ\.cache\Windows\SFX\Throb 2.1_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Engine\Engine Throb\Level 2\Throb 2_1		432192
+	1066701499	Hum Ambience 1	C:\users\crossover\My Documents\WwiseProjects\Turn Up The Bloom - GGJ\.cache\Windows\SFX\Hum Ambience 1_4B8CC0C5.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ambience\Hum Ambience 1		5184192
+	1068431460	Metallic Throb 1	C:\users\crossover\My Documents\WwiseProjects\Turn Up The Bloom - GGJ\.cache\Windows\SFX\Metallic Throb 1_D6C9A8D9.wem		\Actor-Mixer Hierarchy\Default Work Unit\Engine\Engine Throb\Level 4\Metallic Throb 1		591316
+
