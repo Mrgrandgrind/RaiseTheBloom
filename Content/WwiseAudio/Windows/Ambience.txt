@@ -1,0 +1,21 @@
+Event	ID	Name			Wwise Object Path	Notes
+	85412153	Ambience			\Default Work Unit\Ambience	
+
+Switch Group	ID	Name			Wwise Object Path	Notes
+	2782712965	Level			\Default Work Unit\Level	
+
+Switch	ID	Name	Switch Group			Notes
+	1290008369	Level_1	Level			
+	1290008370	Level_2	Level			
+	1290008371	Level_3	Level			
+
+Effect plug-ins	ID	Name	Type				Notes
+	126555151	Wwise Parametric EQ (Custom)	Wwise Parametric EQ			
+	2547645744	Boost_3dB_100Hz	Wwise Parametric EQ			
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	144455026	Ambience 1	D:\Documents\Unreal Projects\GGJ17\RaiseTheBloom\RaiseTheBloom_WwiseProject\.cache\Windows\SFX\Ambience 1_4B8CC0C5.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ambience\Ambience\Level\Ambience 1		23904192
+	442775350	Foghorn	D:\Documents\Unreal Projects\GGJ17\RaiseTheBloom\RaiseTheBloom_WwiseProject\.cache\Windows\SFX\361354__klankbeeld__foghorn-low-clean-org-359999_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ambience\Ambience\Level\Foghorn		1972688
+	965015969	Ambience 2	D:\Documents\Unreal Projects\GGJ17\RaiseTheBloom\RaiseTheBloom_WwiseProject\.cache\Windows\SFX\Ambience 2_4B8CC0C5.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ambience\Ambience\Level\Ambience 2		21024192
+	1066701499	Hum Ambience 1	D:\Documents\Unreal Projects\GGJ17\RaiseTheBloom\RaiseTheBloom_WwiseProject\.cache\Windows\SFX\Hum Ambience 1_4B8CC0C5.wem		\Actor-Mixer Hierarchy\Default Work Unit\Ambience\Ambience\Level\Hum Ambience 1		5184192
+

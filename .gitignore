@@ -102,3 +102,4 @@ DerivedDataCache/*
 
 # Ignore VictoryPlugin
 Plugins/VictoryPlugin/
+Plugins/Wwise/
